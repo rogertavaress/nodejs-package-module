@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-package-module",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/rogertavaress/nodejs-package-module",
+  "author": "Rogério Tavares",
+  "license": "MIT",
+  "private": false
+}
